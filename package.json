@@ -1,0 +1,23 @@
+{
+  "name": "meshblu-random-emitter",
+  "version": "1.0.0",
+  "description": "meshblu-blink1 ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node command.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/meshblu-random-emitter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/meshblu-random-emitter/issues"
+  },
+  "homepage": "https://github.com/octoblu/meshblu-random-emitter",
+  "dependencies": {
+    "meshblu": "^1.19.1"
+  }
+}
